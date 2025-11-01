@@ -47,14 +47,13 @@ O projeto foi desenvolvido com base em **metodologias ágeis** (Scrum e Kanban),
 | **Fernando Peixoto** | Scrum Master                     | Gestão do Trello, protótipo da caixa e landing page |
 | **Diego Fogaça**     | Consultor de Usabilidade         | Avaliação da interface e estudo de mercado          |
 | **Emilly Proietti**  | Analista de Suporte e Manutenção | Documentação e Lean Canvas                          |
-| **Lucas Xavier**     | Desenvolvedor de Algoritmos      | Criação do MVP no Figma                             |
 | **Marilha Gomes**    | Analista de Requisitos           | Persona e artigo acadêmico                          |
 
 ---
 
 ## 🧩 Tecnologias Utilizadas
 
-* Arduino + Tinkercad
+* Arduino
 * Figma (App & Landing Page)
 * SketchUp (Modelagem 3D)
 * Trello (Gestão de tarefas)
