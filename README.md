@@ -94,9 +94,8 @@ O projeto foi desenvolvido com base em **metodologias ágeis** (Scrum e Kanban),
 HelpingPaws/
 │
 ├── README.md
-├── /arduino_code/          # Código do Arduino (em breve)
-├── /diagrams/              # Diagramas de circuito e modelagem (em breve)
-├── /docs/                  # Documentos e relatórios do projeto
+├── /arduino_code/          # Code_ESP32
+├── /diagrams/              # DIAGRAMA.png
 └── /media/                 # Imagens, renders e vídeos
 ```
 
